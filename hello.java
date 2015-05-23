@@ -1,7 +1,7 @@
-import java.system.*
+import java.io.*;
 
-public class Hello {
+public class hello {
 	public static void main(string[] args) {
-		Systm.out.pintln("Hello git world!!");
+		System.out.println("Hello git world!!");
 	}
 }
