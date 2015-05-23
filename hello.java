@@ -1,7 +1,7 @@
 import java.system.*
 
 public class Hello {
-	public static void main(string[] args) {
-		Systm.out.pintln("Hello git world!!");
+	public static void main(String[] args){
+		System.out.println("Hello git world!!");
 	}
 }
